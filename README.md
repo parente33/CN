@@ -18,5 +18,5 @@ Pedro Ferreira - [@pedro-ff](https://github.com/pedro-ff)
 
 2nd Part: Wireless Local Area Networks (Wi-Fi)
 
-## **Grade:** 16.46
+## **Grade:** 16.46/20
 
